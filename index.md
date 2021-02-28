@@ -1,4 +1,4 @@
-<div content class="Info">
+<div content class="info">
   <div content>
     <p style="font-size:18px" align="center"> Efficientize similarities with clauses </p>
   </div>
