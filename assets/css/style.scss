@@ -2,10 +2,3 @@
 ---
 
 @import "{{ site.theme }}";
-
-.info[content] {
-  margin: 10px;
-  display: grid;
-  grid-gap: 0;
-  grid-template-columns: 1fr 1fr;
-}
