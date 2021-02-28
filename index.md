@@ -1,6 +1,6 @@
 <div content class="info">
   <div content>
-    <p style="font-size:18px" align="center"> Efficientize similarities with clauses </p>
+    <p style="font-size:18px"> Efficientize similarities with clauses </p>
   </div>
   <div content>
     <p align="center">
