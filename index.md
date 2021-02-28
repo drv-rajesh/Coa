@@ -6,6 +6,6 @@ Coa (Clause-based Operations and Arithmetic) Code is a language based on Python 
 Can be used for:
 - Arithmetics-based development
 - Software development
-- More in the future
+- More coming soon
 
 Read the enhancement proposals [here]() (to be released)
