@@ -2,7 +2,7 @@
 - Download the IDE here (to be released)
 
 Examples:
-`
+```
 --undeclared:
 sum 2 2
 if 2 > 3 else not
@@ -16,4 +16,4 @@ get x
 get y
 sumvar x y
 ifvar y > 7 else not
-`
+```
