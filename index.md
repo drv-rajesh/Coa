@@ -4,7 +4,7 @@
   </div>
   <div content>
     <p align="center">
-      <img src="/assets/clauses.png" width="36" height="25">
+      <img src="/assets/clauses.jpg" width="36" height="25">
     </p>
   </div>
 </div>
