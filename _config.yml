@@ -1,4 +1,4 @@
 theme: jekyll-theme-hacker
 title: Coa Code
 description: A Python-based programming language
-show_downloads: false
+show_downloads: true
